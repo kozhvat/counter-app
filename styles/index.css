@@ -54,6 +54,7 @@ input {
   font-weight: 700;
   font-size: 32px;
   line-height: 44px;
+  cursor: pointer;
 }
 
 .counter__button-plus {
